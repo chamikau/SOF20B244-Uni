@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ChamikaToyHouse>
+
+  <toy>
+    <title>Car</title>
+    <image>car.jpg</image>
+    <price>LKR 850.00</price>
+  </toy>
+
+  <toy>
+    <title>Doll</title>
+    <image>doll.jpeg</image>
+    <price>LKR 2000.00</price>
+  </toy>
+
+  <toy>
+    <title>Tedy</title>
+    <image>tedy.jpg</image>
+    <price>LKR 950.00</price>
+  </toy>
+
+  <toy>
+    <title>Plane</title>
+    <image>plane.jpg</image>
+    <price>LKR 15,000.00</price>
+  </toy>
+  
+  <toy>
+    <title>Dancing Tree</title>
+    <image>tree.jpg</image>
+    <price>LKR 1,650.00</price>
+  </toy>
+
+    <toy>
+    <title>Jeep</title>
+    <image>jeep.jpg</image>
+    <price>LKR 5,000.00</price>
+  </toy>
+
+    <toy>
+    <title>House</title>
+    <image>house.jpg</image>
+    <price>LKR 4,500.00</price>
+  </toy>
+
+  <toy>
+    <title>Bike</title>
+    <image>biker.jpg</image>
+    <price>LKR 2,800.00</price>
+  </toy>
+	
+</ChamikaToyHouse>
